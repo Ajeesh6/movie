@@ -1,0 +1,27 @@
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+h1
+{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+p{
+    color: #ffffff;
+}
+
+a{
+    background-color:skyblue;
+    color: #192734;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color:#192734;
+    color: skyblue;
+    
+}

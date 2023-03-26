@@ -1,0 +1,18 @@
+.navbar .navbar-brand{
+    color: skyblue;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: skyblue;
+}
+
+nav{
+    /* background-color:#15202B ; */
+    background-color: #192734;
+
+}
+.nav-link{
+    border: 1px solid;
+    border-radius: 6px;
+}
